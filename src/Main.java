@@ -19,7 +19,7 @@ public class Main extends JPanel implements KeyListener {
     private Snake snake;
     private Fruit fruit;
     private Timer t;
-    private final Integer speed = 100;
+    private final Integer speed = 80;
     private static String direction;
     private boolean allowKeyPress;
     private int score;
